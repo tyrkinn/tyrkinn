@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyrkinn&label=Profile%20views&color=0e75b6&style=flat" alt="tyrkinn" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/47741584-a203-4886-8871-3cafdc7f4055.svg)](https://wakatime.com/@47741584-a203-4886-8871-3cafdc7f4055)
+
 <p align="left"> <a href="https://twitter.com/tyrkinnn" target="blank"><img src="https://img.shields.io/twitter/follow/tyrkinnn?logo=twitter&style=for-the-badge" alt="tyrkinnn" /></a> </p>
 
 - 🔭 I’m currently working on [Courseal](https://github.com/tyrkinn/Courseal)
@@ -21,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyrkinn&show_icons=true&locale=en" alt="tyrkinn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrkinn&" alt="tyrkinn" /></p>
+
+
