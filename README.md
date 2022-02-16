@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tyrkinnn" target="blank"><img src="https://img.shields.io/twitter/follow/tyrkinnn?logo=twitter&style=for-the-badge" alt="tyrkinnn" /></a> </p>
 
-- 🔭 I’m currently working on [Courseal](https://github.com/tyrkinn/Courseal)
-
 - 🌱 I’m currently learning **re-frame**
-
-- 💬 You can ask me about **React, Typescript, Functional Programming, F#, Elm**
 
 - 📫 How to reach me **tyrkinn@pm.me**
 
