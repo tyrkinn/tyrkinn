@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyrkinn&show_icons=true&locale=en&layout=compact" alt="tyrkinn" /></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=tyrkinn&hide_progress=false&layout=compact" alt="tyrkinn" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tyrkinn&hide_progress=false&layout=compact" alt="tyrkinn" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tyrkinn&show_icons=true&locale=en" alt="tyrkinn" />
 
