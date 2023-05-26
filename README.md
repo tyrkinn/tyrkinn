@@ -1,5 +1,3 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
 <h1 align="center">Hi 👋, I'm Nikita Tyrkin</h1>
 <h3 align="center">Fullstack developer based in Russia</h3>
 
